@@ -39,11 +39,11 @@ The plot of the game is about a magic mirror. This mirror is divided in 4 parts,
 
 #### 2: Active Cooperative mode
 
-#### 5: Add credits (you can't respawn without credits)
+#### 5 or Y (gamepad): Add credits (you can't respawn without credits)
 
-#### 1 or A(gamepad): Continue button
+#### 1 or A (gamepad): Continue button
 
-#### P or PAUSE (gaempad): Pauses the game
+#### P or PAUSE (gamepad): Pauses the game
 
 #### ESC: Closes the game
 
