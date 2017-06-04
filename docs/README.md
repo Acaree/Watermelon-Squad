@@ -1,3 +1,5 @@
+
+
 # GunBird by Watermelon $quad
 
 ![](logowatermelonsquad.png)
@@ -34,26 +36,36 @@ The plot of the game is about a magic mirror. This mirror is divided in 4 parts,
 ##Game Controls
 
 ###Player 1###
-⇧⇦⇩⇨ Move
+⇧⇦⇩⇨ 
+Move
 
-####N#### Shoot
+####N#### 
+Shoot
 
-####M#### Bomb
+####M#### 
+Bomb
 
 ###Player 2###
-####WASD#### Move
 
-####C#### Shoot
+####WASD#### 
+Move
 
-####V#### Bomb
+####C#### 
+Shoot
+
+####V#### 
+Bomb
 
 ###GamePad##
 
-####Joystick and D-Pad#### Move
+####Joystick and D-Pad#### 
+Move
 
-####A#### Shoot
+####A#### 
+Shoot
 
-####B#### Bomb
+####B#### 
+Bomb
 
 
 #### Download the latest version of gunbird [here](https://www.youtube.com/watch?v=CQuciODIOFc&t=21s) ####
