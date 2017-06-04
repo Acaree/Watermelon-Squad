@@ -13,14 +13,17 @@ The plot of the game is about a magic mirror. This mirror is divided in 4 parts,
 ![](20170601_144636.jpg)
 ### Art/Design ###
 ![](Captura3.PNG)
+
 [David Lozano Sánchez](https://github.com/DavidTheMaaster)
 
 ### Code ###
 ![](Captura.PNG)
+
 [Alex Campamar Redol](https://github.com/Acaree)
 
 ### QA ###
 ![](Captura2.PNG)
+
 [Joan Valiente Lorite](https://github.com/JoanValiente) 
 
 
@@ -32,17 +35,24 @@ The plot of the game is about a magic mirror. This mirror is divided in 4 parts,
 
 ###Player 1###
 ⇧⇦⇩⇨ Move
+
 ####N#### Shoot
+
 ####M#### Bomb
 
 ###Player 2###
 ####WASD#### Move
+
 ####C#### Shoot
+
 ####V#### Bomb
 
 ###GamePad##
+
 ####Joystick and D-Pad#### Move
+
 ####A#### Shoot
+
 ####B#### Bomb
 
 
