@@ -1,6 +1,6 @@
 # GunBird by Watermelon $quad
 
-![](logo watermelon squad.png)
+![](logowatermelonsquad.png)
 
 Gunbird is a shot ‘em up made in 1994 by Psikyo. The original game was released in arcade machines. In the game, we can choose one of the 5 playable characters. The game has 4 stages in random order and a final stage. Every stage consists in hordes of enemies and a final boss.
 
