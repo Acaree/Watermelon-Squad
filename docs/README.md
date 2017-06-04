@@ -75,7 +75,7 @@ The plot of the game is about a magic mirror. This mirror is divided in 4 parts,
 
 
 
-## Download the latest version of gunbird [here](https://www.youtube.com/watch?v=CQuciODIOFc&t=21s)
+## Download the latest version of gunbird [here] (https://github.com/Acaree/WatermelonSquad/releases/download/1.0/Gunbird.1.0.zip)
 ## Look for more information in our [wiki](https://github.com/Acaree/WatermelonSquad/wiki)
 
 
