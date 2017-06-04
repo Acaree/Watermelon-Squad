@@ -33,7 +33,7 @@ The plot of the game is about a magic mirror. This mirror is divided in 4 parts,
 
 ## Gameplay
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CQuciODIOFc" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/zH_dhQdL6cw" frameborder="0" allowfullscreen></iframe>
 
 ## Game Controls
 
