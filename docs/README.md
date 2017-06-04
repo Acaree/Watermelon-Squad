@@ -39,7 +39,7 @@ The plot of the game is about a magic mirror. This mirror is divided in 4 parts,
 
 #### 2: Active Cooperative mode
 
-#### 5: More credits (you can't revive without credits)
+#### 5: Add credits (you can't respawn without credits)
 
 #### 1 or A(gamepad): Continue button
 
