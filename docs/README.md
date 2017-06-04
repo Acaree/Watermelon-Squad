@@ -40,25 +40,25 @@ The plot of the game is about a magic mirror. This mirror is divided in 4 parts,
 ### Player 1 ###
 ⇧⇦⇩⇨: Move
 
-#### N ####: Shoot
+#### N: Shoot 
 
-#### M ####: Bomb
+#### M: Bomb
 
 ### Player 2 ###
 
-#### WASD ####: Move
+#### WASD: Move
 
-#### C ####: Shoot
+#### C: Shoot
 
-#### V ####: Bomb
+#### V: Bomb
 
-### GamePad ##
+### GamePad ###
 
 #### Joystick and D-Pad ####: Move
 
-#### A ####: Shoot
+#### A: Shoot
 
-#### B ####: Bomb
+#### B: Bomb
 
 
 
