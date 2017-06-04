@@ -38,7 +38,7 @@ The plot of the game is about a magic mirror. This mirror is divided in 4 parts,
 ## Game Controls
 
 ### Player 1 ###
-⇧⇦⇩⇨: Move
+### ⇧⇦⇩⇨: Move
 
 #### N: Shoot 
 
@@ -64,7 +64,6 @@ The plot of the game is about a magic mirror. This mirror is divided in 4 parts,
 
 
 ## Download the latest version of gunbird [here](https://www.youtube.com/watch?v=CQuciODIOFc&t=21s)
-## Check our [GitHub repositorie](https://www.youtube.com/watch?v=CQuciODIOFc&t=21s)
 ## Look for more information in our [wiki](https://www.youtube.com/watch?v=CQuciODIOFc&t=21s)
 
 
