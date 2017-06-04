@@ -54,7 +54,7 @@ The plot of the game is about a magic mirror. This mirror is divided in 4 parts,
 
 ### GamePad ###
 
-#### Joystick and D-Pad ####: Move
+#### Joystick and D-Pad: Move
 
 #### A: Shoot
 
