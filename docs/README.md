@@ -37,12 +37,24 @@ The plot of the game is about a magic mirror. This mirror is divided in 4 parts,
 
 ## Game Controls
 
+#### 2: Active Cooperative mode
+
+#### 5: More credits (you can't revive without credits)
+
+#### 1 or A(gamepad): Continue button
+
+#### P or PAUSE (gaempad): Pauses the game
+
+#### ESC: Closes the game
+
 ### Player 1 ###
 ### ⇧⇦⇩⇨: Move
 
 #### N: Shoot 
 
 #### M: Bomb
+
+
 
 ### Player 2 ###
 
@@ -64,7 +76,7 @@ The plot of the game is about a magic mirror. This mirror is divided in 4 parts,
 
 
 ## Download the latest version of gunbird [here](https://www.youtube.com/watch?v=CQuciODIOFc&t=21s)
-## Look for more information in our [wiki](https://www.youtube.com/watch?v=CQuciODIOFc&t=21s)
+## Look for more information in our [wiki](https://github.com/Acaree/WatermelonSquad/wiki)
 
 
 
